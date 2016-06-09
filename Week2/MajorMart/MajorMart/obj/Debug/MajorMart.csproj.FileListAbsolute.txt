@@ -1,6 +1,0 @@
-C:\Users\Jessica\Desktop\C# Projects\MajorMart\MajorMart\bin\Debug\MajorMart.exe.config
-C:\Users\Jessica\Desktop\C# Projects\MajorMart\MajorMart\bin\Debug\MajorMart.exe
-C:\Users\Jessica\Desktop\C# Projects\MajorMart\MajorMart\bin\Debug\MajorMart.pdb
-C:\Users\Jessica\Desktop\C# Projects\MajorMart\MajorMart\obj\Debug\MajorMart.csprojResolveAssemblyReference.cache
-C:\Users\Jessica\Desktop\C# Projects\MajorMart\MajorMart\obj\Debug\MajorMart.exe
-C:\Users\Jessica\Desktop\C# Projects\MajorMart\MajorMart\obj\Debug\MajorMart.pdb
