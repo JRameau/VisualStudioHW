@@ -1,9 +1,0 @@
-C:\Users\Jessica\Desktop\C# Projects\Week1Problem1\Week1Problem1\bin\Debug\Week1Problem1.exe.config
-C:\Users\Jessica\Desktop\C# Projects\Week1Problem1\Week1Problem1\bin\Debug\Week1Problem1.exe
-C:\Users\Jessica\Desktop\C# Projects\Week1Problem1\Week1Problem1\bin\Debug\Week1Problem1.pdb
-C:\Users\Jessica\Desktop\C# Projects\Week1Problem1\Week1Problem1\obj\Debug\Week1Problem1.csprojResolveAssemblyReference.cache
-C:\Users\Jessica\Desktop\C# Projects\Week1Problem1\Week1Problem1\obj\Debug\Week1Problem1.exe
-C:\Users\Jessica\Desktop\C# Projects\Week1Problem1\Week1Problem1\obj\Debug\Week1Problem1.pdb
-C:\Users\Jessica\Desktop\CS50HW\Week1Problem1\Week1Problem1\bin\Debug\Week1Problem1.exe.config
-C:\Users\Jessica\Desktop\CS50HW\Week1Problem1\Week1Problem1\obj\Debug\Week1Problem1.exe
-C:\Users\Jessica\Desktop\CS50HW\Week1Problem1\Week1Problem1\obj\Debug\Week1Problem1.pdb
