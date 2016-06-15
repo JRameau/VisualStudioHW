@@ -1,0 +1,19 @@
+﻿
+@{
+    ViewBag.Title = "Table";
+}
+
+<h3>@ViewBag.Message</h3>
+
+<fieldset>
+    @using (Ajax.BeginForm("CreateTable", "Home", new AjaxOptions { UpdateTargetId = "divTableDetails" }))
+    {
+        <div id="divTableDetails"></div>
+        
+        @Html.Label("Please enter a number: ")
+        @Html.TextBox("num")
+
+        <button>Create Table</button>
+    }
+</fieldset>
+
