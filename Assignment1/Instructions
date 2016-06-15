@@ -1,0 +1,18 @@
+1. You're tasked with creating some software that should be able to calculate the area of a rectangle. 
+Write a single function that accepts 2 integer parameters and return the calculated area as an integer. 
+In your Main function, call your area function passing in same sample data to test that your function works. 
+You will be required to print the result of your calculation to the screen.
+
+
+2. Multiplication tables are fundamental to mathematics. 
+Write a function that accepts a single integer, int n for example, and prints out a n x n multiplication table. 
+For example, if I call your function with the parameter 5, then I expect to see a table printed that looks like the following.
+1 2 3 4 5
+2 4 6 8 10
+3 6 9 12 15
+4 8 12 16 20
+5 10 15 20 25
+
+
+3. Write a function called Max that accepts a variable number of integer parameters. 
+Find the largest number in the collection and return it from your Max function.
