@@ -1,6 +1,0 @@
-C:\Users\Jessica\Desktop\C# Projects\Week 1 Problem 3\Week 1 Problem 3\bin\Debug\Week 1 Problem 3.exe.config
-C:\Users\Jessica\Desktop\C# Projects\Week 1 Problem 3\Week 1 Problem 3\bin\Debug\Week 1 Problem 3.exe
-C:\Users\Jessica\Desktop\C# Projects\Week 1 Problem 3\Week 1 Problem 3\bin\Debug\Week 1 Problem 3.pdb
-C:\Users\Jessica\Desktop\C# Projects\Week 1 Problem 3\Week 1 Problem 3\obj\Debug\Week 1 Problem 3.csprojResolveAssemblyReference.cache
-C:\Users\Jessica\Desktop\C# Projects\Week 1 Problem 3\Week 1 Problem 3\obj\Debug\Week 1 Problem 3.exe
-C:\Users\Jessica\Desktop\C# Projects\Week 1 Problem 3\Week 1 Problem 3\obj\Debug\Week 1 Problem 3.pdb
